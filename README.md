@@ -26,13 +26,9 @@ Info myInfo = {
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png"/>
-  <img src="https://img.icons8.com/?size=48&id=40669&format=png"/>
-  <img src="https://img.icons8.com/?size=48&id=13441&format=png"/>
- <!-- <img src="icons/keilc.jpg" width="48" height="48"/> -->
-  <img src="https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,raspberrypi,arduino,qt,vscode,eclipse,opencv,mysql,linux,html,git,notion,discord" />
+  </a>
 </p>
 
 ## Activities:
