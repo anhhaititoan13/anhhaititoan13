@@ -27,7 +27,7 @@ Info myInfo = {
 ## 🛠️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,raspberrypi,arduino,qt,vscode,eclipse,opencv,mysql,linux,html,git,notion,discord" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,raspberrypi,arduino,qt,vscode,eclipse,opencv,mysql,html,css,linux,git,notion" />
   </a>
 </p>
 
