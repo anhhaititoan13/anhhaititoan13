@@ -24,14 +24,14 @@ Info myInfo = {
 
 <br />
 
-## Skills:
+## 🛠️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,raspberrypi,arduino,qt,vscode,eclipse,opencv,mysql,linux,html,git,notion,discord" />
   </a>
 </p>
 
-## Activities:
+## Activities
 
 ![anhhaititoan13's Stats](https://github-readme-stats.vercel.app/api?username=anhhaititoan13&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
 ![anhhaititoan13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anhhaititoan13&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
